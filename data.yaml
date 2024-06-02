@@ -1,0 +1,7 @@
+train: images/train
+val: images/val
+
+names:
+  0: Jajangmyeon
+  1: Jjambbong
+  2: Tangsuyuk
